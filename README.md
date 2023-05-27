@@ -1,16 +1,32 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-<!--
-**MuriloMoutinho/MuriloMoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <h1>Seja bem vindo(a) ao meu perfil</h1>
+</div>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloMoutinho&show_icons=true&count_private=true&hide_border=false&title_color=B22222&icon_color=DC143C&text_color=c9d1d9&bg_color=1B1B27" alt="Caroline Barbosa github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMoutinho&layout=compact&hide_border=false&title_color=B22222&text_color=DC143C&bg_color=1B1B27" />
+</div>
+   
+ </br>
+ 
+ ### Principais tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,spring,dotnet,postgres,mysql,java,git,docker)](https://skillicons.dev)
+ 
+ ### Conhecimento prévio:
+[![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
+ 
+  <h2>Contatos</h2>
+  <a href = "mailto:murilosilvamoutinho@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/murilomoutinho/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  </a> 
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+  
