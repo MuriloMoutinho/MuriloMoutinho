@@ -14,13 +14,13 @@
    
  </br>
  
- ### Principais tecnologias:
+<h2> Principais tecnologias:</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,spring,dotnet,postgres,mysql,java,git,docker)](https://skillicons.dev)
  
- ### Conhecimento prévio:
+<h2> Conhecimento prévio:</h2>
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
  
-  <h2>Contatos</h2>
+<h2>Contatos:</h2>
   <a href = "mailto:murilosilvamoutinho@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
