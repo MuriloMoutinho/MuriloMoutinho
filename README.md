@@ -15,9 +15,11 @@
  </br>
  
 <h2> Principais tecnologias:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,spring,dotnet,postgres,mysql,java,git,docker)](https://skillicons.dev)
- 
+
 <h2> Conhecimento prévio:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
  
 <h2>Contatos:</h2>
