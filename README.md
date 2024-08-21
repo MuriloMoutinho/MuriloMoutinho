@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
 <div align="center">  
-  <h1>Seja bem vindo(a) ao meu perfil</h1>
+  <h1>Olá</h1>
 </div>
 
 </br>
@@ -16,11 +16,11 @@
  
 <h2> Principais tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,spring,dotnet,postgres,mysql,java,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,spring,dotnet,postgres,java,git)](https://skillicons.dev)
 
 <h2> Conhecimento prévio:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,docker)](https://skillicons.dev)
  
 <h2>Contatos:</h2>
   <a href = "mailto:murilosilvamoutinho@gmail.com"> 
