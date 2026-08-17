@@ -16,11 +16,7 @@
  
 <h2> Principais tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,spring,dotnet,postgres,java,git)](https://skillicons.dev)
-
-<h2> Conhecimento prévio:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=php,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,spring,postgres,docker,git)](https://skillicons.dev)
  
 <h2>Contatos:</h2>
   <a href = "mailto:murilosilvamoutinho@gmail.com"> 
